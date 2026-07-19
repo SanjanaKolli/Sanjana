@@ -32,8 +32,8 @@ If you're hiring, or just building something interesting with data, I'd love to 
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/SanjanaKolli/SanjanaKolli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/SanjanaKolli/SanjanaKolli/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/SanjanaKolli/Sanjana/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/SanjanaKolli/Sanjana/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
