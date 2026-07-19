@@ -19,7 +19,6 @@ jobs:
           github_user_name: SanjanaKolli
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push snake svg
         uses: crazy-max/ghaction-github-pages@v4
